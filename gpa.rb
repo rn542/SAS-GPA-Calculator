@@ -1,7 +1,7 @@
 
 $VERBOSE = nil
 
-require 'watir'
+require 'watir-webdriver'
 require 'html_to_plain_text'
 require 'pp'
 require 'green_shoes'
